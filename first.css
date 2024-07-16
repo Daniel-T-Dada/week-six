@@ -3,5 +3,5 @@
 @tailwind components;
 
 main article{
-    @apply md:bg-cyan-500 rounded-2xl sm:bg-blue-800 bg-purple-500
+    @apply md:bg-cyan-500 rounded-2xl sm:bg-blue-600 bg-purple-500
 }

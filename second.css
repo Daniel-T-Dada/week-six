@@ -624,7 +624,7 @@ main article {
 @media (min-width: 640px) {
   main article {
     --tw-bg-opacity: 1;
-    background-color: rgb(30 64 175 / var(--tw-bg-opacity));
+    background-color: rgb(37 99 235 / var(--tw-bg-opacity));
   }
 }
 
@@ -670,10 +670,6 @@ main article {
 
   .sm\:row-start-5 {
     grid-row-start: 5;
-  }
-
-  .sm\:row-start-8 {
-    grid-row-start: 8;
   }
 
   .sm\:grid-cols-2 {
